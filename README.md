@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bhartiQA
 - 👀 I’m interested in Software Testing opportunities 
-- 🌱 I’m currently learning Automation Testing 
+- 🌱 I’m currently learning API Testing with POSTMAN 
 - 💞️ Quality Analyst I @agami technologies pvt ltd. 
 - 📫 How to reach me- https://www.linkedin.com/in/bharti-t-13a845244/ 
 - 💥 Certified Software Testing Enthusiast
-- 🖥 Working on live Fintech Projec
+- 🖥 Working on live Fintech Project
