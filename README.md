@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning API Testing with POSTMAN 
 - 💞️ Quality Analyst I @agami technologies pvt ltd. 
 - 📫 How to reach me- https://www.linkedin.com/in/bharti-t-13a845244/ 
-- 💥 Certified Software Testing Enthusiast
-- 🖥 Working on live Fintech Project
+- 💥 Certified API Testing Enthusiast
+- 🖥 Worked on live Fintech Project (Moserbus)
+- 🖥 Working on Employee Management System (Fusion24x7)
