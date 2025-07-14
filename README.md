@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhartiQA
 - 👀 I’m interested in Software Testing opportunities 
-- 🌱 I’m currently learning API Testing with POSTMAN 
+- 🌱 I’m currently learning Automation Testing using Cypress
 - 💞️ Quality Analyst I @agami technologies pvt ltd. 
 - 📫 How to reach me- https://www.linkedin.com/in/bharti-t-13a845244/ 
 - 💥 Certified API Testing Enthusiast
